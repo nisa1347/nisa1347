@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="banner.png" width="100%" />
+<img src="banner-github.png" width="100%" />
 
 # Hi 👋 I'm Anisa
 
