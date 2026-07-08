@@ -38,6 +38,23 @@ Focus:
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nisa1347&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nisa1347&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-ten-sigma.vercel.app?user=nisa1347&theme=tokyonight" />
+</p>
+
+---
+
 ## 🚀 Featured Projects
 
 - 📚 Student Information System (Laravel)
