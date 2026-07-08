@@ -36,9 +36,7 @@ Focus:
 ## 🛠 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=laravel,php,mysql,html,css,js,git,github,vscode,figma"/>
-
+  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,html,css,js,git,github,vscode,figma" />
 </p>
 
 ---
